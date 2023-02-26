@@ -1,1 +1,3 @@
-# Proyecto-Final-C-digo
+# Proyecto-Final-Codigo
+
+Repositorio para el trabajo Final del curso Python Fundamentals
